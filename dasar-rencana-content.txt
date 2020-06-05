@@ -1,7 +1,9 @@
 rencana kontent ku
 1. video js 
 -ES6
--FM JS
+-FM JS yang terbaru
 2. video php FM
+-laravel
 3. interview
+-materi phyton
 
