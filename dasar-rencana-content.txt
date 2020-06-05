@@ -1,8 +1,10 @@
 rencana kontent ku
 1. video js 
 -ES6
--FM JS
-angular
 3. interview
 makan
+-FM JS yang terbaru
+2. video php FM
+-laravel
+3. interview
 
