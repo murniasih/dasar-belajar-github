@@ -2,6 +2,7 @@ rencana kontent ku
 1. video js 
 -ES6
 -FM JS
-2. video php FM
+angular
 3. interview
+makan
 
