@@ -3,5 +3,7 @@ rencana kontent ku
 -ES6
 -FM JS
 2. video php FM
+-laravel
 3. interview
+-materi phyton
 
